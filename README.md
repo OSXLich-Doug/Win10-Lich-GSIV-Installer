@@ -11,13 +11,16 @@ Base build:
 
 Lich specific gems:
 * sqlite3-1.3.13-x64-mingw32.gem (from rubygems.org)
-* cairo-1.16.1-x64-mingw32.gem (from rubygems.org)
+* cairo-1.16.1-x64-mingw32.gem (from rubygems.org) 
+ -- (due to size, you must download / add yourself from:  https://rubygems.org/downloads/cairo-1.16.1-x64-mingw32.gem )
 * glib2-3.2.9-x64-mingw32.gem (from rubygems.org)
+ -- (due to size, you must download / add yourself from:  https://rubygems.org/downloads/glib2-3.2.9-x64-mingw32.gem )
+ * pango-3.2.9-x64-mingw32.gem (from rubygems.org)
+ -- (due to size, you must download / add yourself from:  https://rubygems.org/downloads/pango-3.2.9-x64-mingw32.gem )
 * gobject-introspection-3.2.9-x64-mingw32.gem (from rubygems.org)
 * gio2-3.2.9-x64-mingw32.gem (from rubygems.org)
 * gdk_pixbuf2-3.2.9-x64-mingw32.gem (from rubygems.org)
 * cairo-gobject-3.2.9-x64-mingw32.gem (from rubygems.org)
-* pango-3.2.9-x64-mingw32.gem (from rubygems.org)
 * atk-3.2.9-x64-mingw32.gem (from rubygems.org)
 * gtk2-3.2.9-x64-mingw32.gem (from rubygems.org)
 
