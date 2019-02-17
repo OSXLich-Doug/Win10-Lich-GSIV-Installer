@@ -1,7 +1,7 @@
 Gemstone IV Lich Windows 10 Installer
 =====================================
 
-This repository is a stand-alone container of the files used to build the Inno-Setup driven [InstallLich.exe](https://bit.ly/Win10_Lich_Installer).  The current release has the following Ruby / Gem packages, powershell script and Inno Setup script file.
+This repository is a stand-alone container of the files used to build the Inno-Setup driven [InstallLich.exe](https://bit.ly/Win10-Lich-Installer).  The current release has the following Ruby / Gem packages, powershell script and Inno Setup script file.
 
 Base build:
 * ruby 2.4.5p335 (2018-10-18 revision 65137) [x64-mingw32] (from rubyinstaller.org)
